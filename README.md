@@ -17,4 +17,5 @@ Improve window resizing & ui element alignment
 add ability to highlight text in various colors
 Add basic functions such as tab alignment for highlighted text
 
+![Example Screen of Journaless 1](exampleImages/Example of journaless.png)
 
